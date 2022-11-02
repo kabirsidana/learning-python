@@ -39,5 +39,5 @@ repeat()
 a=input("Do you run the calculator again y for yes ,n for   ")
 if(a=="y"):
     repeat()
-else:
+else: 
     print("OK GOOD BYE")
